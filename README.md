@@ -1,8 +1,8 @@
 ## Ahmad Wijaya — @cibofdevs
 
-Hi 👋, I'm Ahmad!
+Hi, I'm Ahmad! 👋
 
-Software engineer with 9 years of experience in different languages and platforms. Currently, working as a API & Microservices Developer at PT. XL Axiata Tbk.
+Software Developer with 9 years of Experience in Different Languages and Platforms. Currently, Working as API & Microservices Developer at [PT. XL Axiata Tbk.](https://www.xlaxiata.co.id/en)
 
 [![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=cibofdevs)](https://github.com/anuraghazra/github-readme-stats)
 
