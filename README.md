@@ -1,4 +1,4 @@
-## Ahmad Wijaya — @cibofdevs
+## Ahmad Wijaya - @cibofdevs
 
 Hi, I'm Ahmad! 👋
 
