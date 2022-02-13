@@ -10,5 +10,5 @@ Software Developer with 9 years of Experience in Different Languages and Platfor
 </p>
   
 ### 💬 Get in touch!
-- Site: [https://cibofdevs.github.io](https://cibofdevs.github.io)
-- Linkedin: [in/cibofdevs](https://www.linkedin.com/in/cibofdevs)
+- Site: [**cibofdevs**.github.io](https://cibofdevs.github.io)
+- Linkedin: [**linkedin**.com/in/cibofdevs](https://www.linkedin.com/in/cibofdevs)
