@@ -2,7 +2,7 @@
 
 Hi, I'm Ahmad! 👋
 
-Currently, Work as a Backend Engineer at [ALTO Network](https://alto.co.id/)
+Currently work as a Backend Engineer at [ALTO Network](https://alto.co.id/)
   
 ### 💬 Get in touch!
 - Site: [cibofdevs.github.io](https://cibofdevs.github.io)
