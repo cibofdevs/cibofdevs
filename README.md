@@ -1,6 +1,6 @@
 ## Ahmad Wijaya — @cibofdevs
 
-Hi, I'm Ahmad! 👋
+Hi 👋, I'm Ahmad!
 
 Currently work as a Backend Engineer at [Alto Network](https://alto.co.id/)
   
