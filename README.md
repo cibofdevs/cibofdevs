@@ -10,5 +10,4 @@ Currently working as a Technology Specialist at [TIMWETECH](https://timwetech.co
 
 ### 🏆 Github Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cibofdevs" alt="cibofdevs" /> </p>
-<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibofdevs&layout=compact&theme=dracula&&hide_border=true" alt="cibofdevs"/></p>
