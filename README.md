@@ -2,7 +2,7 @@
 
 Hi 👋🏻, I'm Ahmad!
 
-Currently working as a Technology Specialist at [TIMWETECH](https://timwetech.com)
+Currently working as a Java Developer Specialist at [PAYOK](https://payok.com)
   
 ### 💬 Get in touch!
 - Site: [cibofdevs.github.io](https://cibofdevs.github.io)
