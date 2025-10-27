@@ -11,4 +11,4 @@ Currently working as a Java Developer Specialist at [PAYOK](https://payok.com)
 ### 🏆 GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cibofdevs" alt="cibofdevs" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibofdevs&layout=compact&theme=dracula&&hide_border=true" alt="cibofdevs"/></p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cibofdevs&theme=github_dark" />
+<p></p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cibofdevs&theme=github_dark" /></p>
