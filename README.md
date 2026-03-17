@@ -1,6 +1,6 @@
 ## Ahmad Wijaya — @cibofdevs
 
-<p>Hi 👋🏻, My name is Ahmad! I'm a Software Engineer with 6 years of experience.</p> 
+<p>Hi 👋🏻, My name is Ahmad! I'm a Software Engineer with 6+ years of experience.</p> 
 <p>Currently working as a Java Developer Specialist at <a href="https://payok.com">PAYOK</a></p>
 
 ### 💬 Get in touch!
