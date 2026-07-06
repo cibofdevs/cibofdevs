@@ -12,5 +12,3 @@
 
 ### 🏆 GitHub Stats
 <img src="https://komarev.com/ghpvc/?username=cibofdevs" alt="cibofdevs" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cibofdevs&theme=dracula" alt="Top Languages by Repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cibofdevs&theme=dracula" />
