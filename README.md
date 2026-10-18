@@ -11,4 +11,4 @@
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/cibofdevs)
 
 ### 🏆 GitHub Stats
-<img src="https://komarev.com/ghpvc/?username=cibofdevs" alt="cibofdevs" />
+<img src="https://komarev.com/ghpvc/?username=cibofdevs&style=flat&color=blue" alt="Profile views" />
