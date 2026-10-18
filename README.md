@@ -4,7 +4,7 @@
   <img alt="Ahmad Wijaya — Backend Developer and Software Engineer" src="./assets/banner-light.svg" width="100%" />
 </picture>
 
-<br />
+<br /><br />
 
 Hi, I'm Ahmad 👋🏻  
 Software Engineer with **6+ years of experience**.  
