@@ -1,14 +1,30 @@
-## Ahmad Wijaya — @cibofdevs
+# Hi, I'm Ahmad 👋
 
-<p>Hi 👋🏻, My name is Ahmad! I'm a Software Engineer with 6+ years of experience.</p> 
-<p>Currently working as a Backend Developer at <a href="https://payok.com">PAYOK</a></p>
+Backend Developer at [PAYOK](https://payok.com)  
+Software Engineer with 6+ years of experience.
 
-### 💬 Get in touch!
-- Site: [cibofdevs.github.io](https://cibofdevs.github.io)
-- Linkedin: [linkedin.com/in/cibofdevs](https://www.linkedin.com/in/cibofdevs)
+I build backend systems and enjoy turning complex problems
+into simple, maintainable solutions.
 
-### ☕ Support
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/cibofdevs)
+[Website](https://cibofdevs.github.io) ·
+[LinkedIn](https://www.linkedin.com/in/cibofdevs) ·
+[Support my work](https://ko-fi.com/cibofdevs)
 
-### 🏆 GitHub Stats
-<img src="https://komarev.com/ghpvc/?username=cibofdevs&style=flat&color=blue" alt="Profile views" />
+---
+
+### / about
+
+- 💻 Focused on backend development.
+- 🛠️ Interested in API design, system reliability, and clean architecture.
+- 🌱 Always learning and improving how I build software.
+
+### / selected work
+
+Explore my pinned repositories below for projects and experiments.
+
+### / let's connect
+
+Have an interesting project or want to exchange ideas?
+
+Find me on [LinkedIn](https://www.linkedin.com/in/cibofdevs)
+or visit my [website](https://cibofdevs.github.io).
