@@ -1,30 +1,33 @@
-# Hi, I'm Ahmad 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+  <img alt="Ahmad Wijaya — Backend Developer and Software Engineer" src="./assets/banner-light.svg" width="100%" />
+</picture>
 
-Backend Developer at [PAYOK](https://payok.com)  
-Software Engineer with 6+ years of experience.
+Hi, I'm Ahmad 👋🏻  
+Software Engineer with **6+ years of experience**.  
+Currently working as a Backend Developer at [PAYOK](https://payok.com).
 
-I build backend systems and enjoy turning complex problems
-into simple, maintainable solutions.
-
-[Website](https://cibofdevs.github.io) ·
-[LinkedIn](https://www.linkedin.com/in/cibofdevs) ·
-[Support my work](https://ko-fi.com/cibofdevs)
+[Website ↗](https://cibofdevs.github.io) · [LinkedIn ↗](https://www.linkedin.com/in/cibofdevs) · [Buy me a coffee ↗](https://ko-fi.com/cibofdevs)
 
 ---
 
-### / about
+### `01 / whoami`
 
-- 💻 Focused on backend development.
-- 🛠️ Interested in API design, system reliability, and clean architecture.
-- 🌱 Always learning and improving how I build software.
+```json
+{
+  "name": "Ahmad Wijaya",
+  "handle": "@cibofdevs",
+  "role": "Backend Developer",
+  "company": "PAYOK"
+}
+```
 
-### / selected work
+### `02 / explore my work`
 
-Explore my pinned repositories below for projects and experiments.
+Projects, experiments, and things I've built.  
+Explore my pinned repositories below ↓
 
-### / let's connect
+---
 
-Have an interesting project or want to exchange ideas?
-
-Find me on [LinkedIn](https://www.linkedin.com/in/cibofdevs)
-or visit my [website](https://cibofdevs.github.io).
+Let's connect and exchange ideas.
