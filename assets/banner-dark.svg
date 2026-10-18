@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Ahmad Wijaya — Backend Developer</title>
+<desc id="desc">Hello, world. @cibofdevs. Backend Developer and Software Engineer. Building things, one commit at a time.</desc>
+<defs><linearGradient id="bg"><stop stop-color="#101b24"/><stop offset="1" stop-color="#164747"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 H 0 V 40" fill="none" stroke="#5eead4" stroke-opacity=".07"/></pattern></defs>
+<rect x="1" y="1" width="1198" height="378" rx="20" fill="url(#bg)" stroke="#244747"/>
+<rect x="1" y="1" width="1198" height="378" rx="20" fill="url(#grid)"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="64" y="79" font-family="monospace" font-size="17" letter-spacing="3" fill="#5eead4">HELLO, WORLD. / @CIBOFDEVS</text>
+<text x="60" y="169" font-size="66" font-weight="700" letter-spacing="-2" fill="#e6edf3">Ahmad Wijaya<tspan fill="#5eead4">.</tspan></text>
+<text x="64" y="220" font-size="25" fill="#b0c5cf">Backend Developer · Software Engineer</text>
+<text x="64" y="309" font-family="monospace" font-size="19" fill="#5eead4">&gt; building things, one commit at a time_</text></g>
+<g fill="none" stroke="#5eead4" stroke-opacity=".18" stroke-width="3"><rect x="940" y="104" width="162" height="48" rx="10"/><rect x="940" y="169" width="162" height="48" rx="10"/><rect x="940" y="234" width="162" height="48" rx="10"/><path d="M 1021 152 V 169 M 1021 217 V 234"/></g>
+<g fill="#5eead4" opacity=".6"><circle cx="966" cy="128" r="4"/><circle cx="966" cy="193" r="4"/><circle cx="966" cy="258" r="4"/></g>
+</svg>
